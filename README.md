@@ -1,5 +1,6 @@
 # Celluar_Usage
-- IIJ-mioのAPIを利用したiOS端末向けデータ残量表示ウィジェット(coupon_info_Arc.js)
+IIJ-mioのAPIを利用したiOS端末向けウィジェット  
+- データ残量表示ウィジェット(coupon_info_Arc.js)
 - 高速通信、低速通信切り替えボタンウィジェット(coupon_switch.js)  
 
 ※ 両システム共にAPI公開サービス終了のため利用不可
